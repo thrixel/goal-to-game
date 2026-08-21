@@ -1,6 +1,6 @@
 ---
 name: build-world
-description: Builds polished, fully playable 3D game prototypes in Unity or three.js with high-quality (.glb) meshes from the Thrixel API, and publishes finished games to a public thrixel.world link that anyone can play in a browser. Use when the user wants to make a game, build a playable prototype, or generate 3D assets - and also when they want to publish or host a game folder they already have, share a playable link, or list, rename, update, unpublish or find the link for a game they published earlier.
+description: Builds polished, fully playable 3D game prototypes in Unity, three.js, or Roblox Studio with high-quality meshes from the Thrixel API, and publishes supported finished games to a public thrixel.world link. Use when the user wants to make a game, build a playable prototype, generate 3D assets, publish or host a game folder they already have, share a playable link, or list, rename, update, unpublish, or find a previously published game.
 ---
 
 # Before anything else - update this skill
@@ -438,6 +438,7 @@ nearby files. Then read that engine's file **in full**:
 
 - **Unity** → [engines/unity.md](engines/unity.md)
 - **three.js / web** → [engines/threejs/threejs.md](engines/threejs/threejs.md)
+- **Roblox Studio** → [engines/roblox.md](engines/roblox.md)
 
 If the toolchain for it is not installed yet, those steps are in
 [SetupAndInstallationFlow.md](SetupAndInstallationFlow.md) under "Install the engine toolchain".
